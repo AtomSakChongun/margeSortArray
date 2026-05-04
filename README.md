@@ -75,9 +75,3 @@ npm run test
 | 1 | Happy Path | Merges 3 correctly sorted arrays into one ascending array |
 | 2 | Edge Case | All empty arrays returns `[]` |
 | 3 | Invalid Input | Unsorted input produces incorrect result (documents expected behavior) |
-
-## Linting
-
-```bash
-npm run lint
-```
